@@ -51,8 +51,7 @@ Currently pursuing B.Eng Biomedical Engineering at FUTO while running an active 
 
 ### 📊 GitHub Stats
 
-![AlphaGL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaGL&show_icons=true&theme=dark&hide_border=true&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaGL&layout=compact&theme=dark&hide_border=true&title_color=ff6b35&text_color=c9d1d9&bg_color=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlphaGL&theme=dark&hide_border=true&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35)](https://github.com/AlphaGL)
 
 ---
 
