@@ -57,7 +57,7 @@ Currently pursuing B.Eng Biomedical Engineering at FUTO while running an active 
 
 ### 🏆 Highlights
 
-- 🥇 **Hack4FUTO Finalist** — Top 8 of 24 teams at FUTO's largest hackathon
+- 🥇 **Hack4FUTO Finalist** — Came out 4th In the competition out of 24 teams at FUTO's largest hackathon
 - 🌍 **91+ projects** delivered across Nigeria and internationally
 - ⭐ **73+ clients** with 100% satisfaction rate
 - 🎓 **B.Eng Biomedical Engineering** — Federal University of Technology, Owerri
